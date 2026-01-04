@@ -1,4 +1,4 @@
-# Dating Trust & Safety Playbook
+# Dating Trust & Safety Rulebook
 
 This repository contains working notes on trust & safety challenges specific to
 relationship-driven platforms (e.g. dating, matchmaking, and intimacy-oriented services).
