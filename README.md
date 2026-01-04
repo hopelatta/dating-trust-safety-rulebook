@@ -21,7 +21,7 @@ Topics covered include:
 - `threat-model.md`  
   Core actors, risks, and harm vectors specific to dating platforms
 
-- `reporting-and-response.md`  
+- `reportingresponse.md`  
   How reporting systems succeed or fail in practice
 
 - `ban-evasion.md`  
